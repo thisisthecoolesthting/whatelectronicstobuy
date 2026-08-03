@@ -80,7 +80,7 @@ const articleSchema = {
   image: entry.data.heroImage ? [entry.data.heroImage] : undefined,
   mainEntityOfPage: { '@type': 'WebPage', '@id': `${o}/articles/${entry.slug}/` },
 };
-const faqBlock = (entry.body || '').split(/^## FAQ/mi)[1] || '';
+const faqBlock = (entry.body || '').split(/^## (?:FAQ|Frequently Asked Questions)\b/mi)[1] || '';
 const faqPairs = faqBlock
   .split(/^### /m)
   .slice(1)
