@@ -10,7 +10,7 @@ bsr: 64888
 commissionPerSale: 0
 score: 0
 imageUrl: "https://m.media-amazon.com/images/I/918OMy9yZaL.jpg"
-affiliateUrl: "https://www.amazon.com/dp/B0GGBCFKC5?tag=whatelectronicstobuy-20"
+affiliateUrl: ""
 isPrime: false
 status: published
 firstSeen: "2026-08-03"

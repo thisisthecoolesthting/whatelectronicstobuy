@@ -10,7 +10,7 @@ bsr: null
 commissionPerSale: 0
 score: 0
 imageUrl: ""
-affiliateUrl: "https://www.amazon.com/dp/B07FSRB4HZ?tag=whatelectronicstobuy-20"
+affiliateUrl: "https://www.amazon.com/dp/B07FSRB4HZ"
 isPrime: false
 status: published
 firstSeen: "2026-06-01"
